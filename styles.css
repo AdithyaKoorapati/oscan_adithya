@@ -1,0 +1,52 @@
+body{
+    background-color: #9BF4F4;
+    width: 100%;
+}
+.background{
+    background-image: url(background.jpg);
+    height: 500px;
+    
+    padding-top: 150px;
+    padding-left: 100px;
+}
+.heading{
+
+    color: white;
+}
+
+.ani{
+   padding-left: 150;
+}
+
+h2{
+    text-align: center;
+    margin: 20px;
+}
+
+.images{
+
+    height: 200px;
+    width: 300px;
+}
+.counter{
+    background-color: white;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.animation{
+    width: 100%;
+    height: 300px;
+}
+
+.type-images{
+    height: 400px;
+    width: 190px;
+}
+
+.footer{
+   background-color: blue;
+   text-align: center;
+   padding: 10px;
+}
+
