@@ -4,7 +4,7 @@ body{
 }
 .background{
     background-image: url(background.jpg);
-    height: 500px;
+    height: auto;
     
     padding-top: 150px;
     padding-left: 100px;
@@ -16,6 +16,7 @@ body{
 
 .ani{
    padding-left: 150;
+   
 }
 
 h2{
